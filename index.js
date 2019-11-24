@@ -1,3 +1,8 @@
+//깃2차 푸시 테스트
+
+
+
+
 
 /*
 const arr = [1, 2, 3];
@@ -20,6 +25,8 @@ console.log(typeof myName); // function
 */
 
 
+
+//ctrl+alt+n 코드러너 실행 단축키인듯..
 
 /*
 var myName;
